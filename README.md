@@ -1,6 +1,6 @@
 # DCS World Awsome List
 
-Awsome list of DCS World ressources
+Awesome list of DCS World ressources
 
 #### Current version : 2.5.5
 #### Open Beta version : 2.5.6
@@ -16,3 +16,5 @@ Table of contents:
 <!--* [Hardware](#hardware)-->
 <!--* [Community](#community)-->
 <!--* [Skinning](#skinning)-->
+
+#### Digital Combat Simulator
