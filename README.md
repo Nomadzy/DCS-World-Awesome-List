@@ -7,8 +7,7 @@ Awesome list of DCS World ressources
 
 Table of contents:
 
-* [Digital Combat Simulator](digital-combat-simulator)
-* [Eagle Dynamics](eagle-dynamics)
+* [Digital Combat Simulator](#digital-combat-simulator)
 * [Official Resources](#official-resources)
 * [Learn](#learn)
 * [Tools](#tools)
@@ -18,3 +17,5 @@ Table of contents:
 <!--* [Skinning](#skinning)-->
 
 #### Digital Combat Simulator
+
+DCS World is a combat flight simulator made by Eagle Dynamics
