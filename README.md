@@ -1,6 +1,6 @@
-# DCS World Awesome List (Work in  progress)
+# DCS World Awesome List - WIP
 
-Awesome list of DCS World resources for new flighters
+Awesome list of DCS World resources for new combat simers (work in  progress)
 
 ## Table of contents:
 
@@ -41,8 +41,10 @@ DCS World is an add-on based, freemium combat flight simulator made by Eagle Dyn
 
 * [DCS Updater/Launcher GUI](https://forums.eagle.ru/showthread.php?t=160053): This unofficial power tool by SkateZilla, is a more user-friendly frontend for the included DCS Updater. It is intended for users doing more than regular updates. You can use it to manage multiple installations of different versions of DCS in the same machine, Launch VR ON/OFF, Manage configurations, Manage modules ..
 
+* [Tacview](https://www.tacview.net/):  This tool let you understand what really happened during your last flight. It is a universal flight data analysis tool which enables you to easily record, analyze and understand any flight to improve your skills much faster than with conventional debriefings. It is widely used by simers and airforces.
+
 #### Communication
-While on multiplayer, users can communicate with each other trough text, audio chat is key in the heat of the action. And although DCS comes nowadays with voice chat, most people tend to use stand-alone VoIP software.
+While on multiplayer users can communicate with each other trough text, audio chat is key in the heat of the action. And although DCS comes nowadays with voice chat, most people tend to use stand-alone VoIP software.
 
 * [DCS Simple Radio Standalone](http://dcssimpleradio.com/gettingstarted/) (SRS): This open source software aims to provide easy to use and realistic communication in DCS Multiplayer. The radio integrates into all exiting and future aircraft available in DCS. Servers can configure SRS to be more or less realistic – enforcing realistic line of sight and distance limitations or allowing aircraft to always hear each other.
 
