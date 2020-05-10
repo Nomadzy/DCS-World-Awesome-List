@@ -30,9 +30,13 @@ DCS World is an add-on based, freemium combat flight simulator made by Eagle Dyn
 * [User files](https://www.digitalcombatsimulator.com/en/files/) User contributed files: Skins, mods, missions and more.
 
 ## Learn
-* DCS Manual: The latest version can be found in the install directory under \Docs folder, or [Online](https://www.digitalcombatsimulator.com/en/downloads/documentation/dcs_user_manual/)
+* DCS Manual: The latest version can be found in the install directory under \Docs folder, or [Online](https://www.digitalcombatsimulator.com/en/downloads/documentation/dcs_user_manual/).
+
 * Modules Manuals: Each module come usually with its own manual under \Mods\aircraft\MODULE_NAME\Doc
+
 * [Chuck's Guides](https://www.mudspike.com/chucks-guides-dcs/): The famous, easy, alternative manuals made by Chuck Owl for almost every high fidelity DCS module, and [beyond](https://www.mudspike.com/chucks-guides/).
+
+* [Hoggit World](https://wiki.hoggitworld.com/view/Hoggit_DCS_World_Wiki): This is the wikipedia of DCS. Its purpose is to gather and organize all the information related to the game, peripherals and mods into this central repository in hopes to offer a valuable "one-stop shop" resource for everything DCS.
 
 
 ## Tools
@@ -43,11 +47,17 @@ DCS World is an add-on based, freemium combat flight simulator made by Eagle Dyn
 
 * [Tacview](https://www.tacview.net/):  This tool let you understand what really happened during your last flight. It is a universal flight data analysis tool which enables you to easily record, analyze and understand any flight to improve your skills much faster than with conventional debriefings. It is widely used by simers and airforces.
 
+* [OvGME](https://wiki.hoggitworld.com/view/OVGME): OvGME is mod manager, it main purpose is to provide an easy way to import and enable mods for games then restore original files when disabling mods. OvGME works by comparing the game file tree with the given mod file tree, then identifies what files to replace, create and save as backup.
+
+
+
 #### Communication
 While on multiplayer users can communicate with each other trough text, audio chat is key in the heat of the action. And although DCS comes nowadays with voice chat, most people tend to use stand-alone VoIP software.
 
 * [DCS Simple Radio Standalone](http://dcssimpleradio.com/gettingstarted/) (SRS): This open source software aims to provide easy to use and realistic communication in DCS Multiplayer. The radio integrates into all exiting and future aircraft available in DCS. Servers can configure SRS to be more or less realistic – enforcing realistic line of sight and distance limitations or allowing aircraft to always hear each other.
 
 * [Teamspeak](https://www.teamspeak.com/en/): This application enables audio communication between users on a chat channel, much like a telephone conference call. The client software connects to a TeamSpeak server of the user's choice, from which the user may join chat channels. This software is free for up to 32 users per server.
+
+* [UniversRadio](https://tacnoworld.fr/universradio/): This software interacts with both TeamSpeak and aircarft radois in DCS (or LotATC 4 DCS), allowing users to communicate through simulated radio channels and frequencies. UniversRadio’s algorithms simulate distance and altitude effects between emitter and receiver, relief masking, frequency used, range, modulation (AM/FM), encrypting and power of radio transmitter to accurately render radio communications.
 
 * [Discord](https://discord.com/): This platform specializes in text, image, video and audio communication between users in a chat channel. Contrary to SRS and Teamspeak, the server is hosted in the company's data-centers, you can access it either by installing the app, or in a navigator window.
