@@ -12,6 +12,7 @@ Awesome list of DCS World resources for new combat simers (work in  progress)
 <!--* [Hardware](#hardware)-->
 <!--* [Community](#community)-->
 <!--* [Skinning](#skinning)-->
+<!--* [Books](#books)-->
 
 ## Digital Combat Simulator
 
