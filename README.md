@@ -39,8 +39,11 @@ DCS World is an add-on based, freemium combat flight simulator made by Eagle Dyn
 
 * [Hoggit World](https://wiki.hoggitworld.com/view/Hoggit_DCS_World_Wiki): This is the wikipedia of DCS. Its purpose is to gather and organize all the information related to the game, peripherals and mods into this central repository in hopes to offer a valuable "one-stop shop" resource for everything DCS.
 
+* [DCShelin Guide](https://drive.google.com/file/d/1UaHEOmsSlNtm0oyddMqGIEuyR-DdoBOo/view): Its like the Michelin restaurants guide but for DCS modules, terrains and compains. With little text and some icons, [this guide](https://forums.eagle.ru/showthread.php?t=232516) let you choose your next module.
+
 
 ## Tools
+<!--#### Head Tracking, Multidisplay, skinning..-->
 #### General
 * DCS Updater: As its name implies, this tool is responsible of keeping your installation fresh, but not only, it can also repair a corrupt installation and change the current installed version. This tool is included with DCS install and is launched every time you start DCS. If it get corrupted by it self, ou can get it [here](http://updates.digitalcombatsimulator.com/files/DCS_updater_64bit.zip). [Documentation](https://forums.eagle.ru/showthread.php?t=114030).
 
