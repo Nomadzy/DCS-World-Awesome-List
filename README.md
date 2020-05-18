@@ -38,9 +38,9 @@ DCS World is an add-on based, freemium combat flight simulator made by Eagle Dyn
 
 * [Chuck's Guides](https://www.mudspike.com/chucks-guides-dcs/): The famous, easy, alternative manuals made by Chuck Owl for almost every high fidelity DCS module, and [beyond](https://www.mudspike.com/chucks-guides/).
 
-* [Hoggit World](https://wiki.hoggitworld.com/view/Hoggit_DCS_World_Wiki): This is the wikipedia of DCS. Its purpose is to gather and organize all the information related to the game, peripherals and mods into this central repository in hopes to offer a valuable "one-stop shop" resource for everything DCS.
+* [Hoggit World](https://wiki.hoggitworld.com/view/Hoggit_DCS_World_Wiki): This is the wikipedia of DCS. Its purpose is to gather and organize all the information related to the sim, peripherals and mods into a central repository, in hopes to offer a valuable "one-stop shop" resource for everything DCS.
 
-* [DCShelin Guide](https://drive.google.com/file/d/1UaHEOmsSlNtm0oyddMqGIEuyR-DdoBOo/view): Its like the Michelin restaurants guide but for DCS modules, terrains and compains. With little text and some icons, [this guide](https://forums.eagle.ru/showthread.php?t=232516) let you choose your next module.
+* [DCShelin Guide](https://drive.google.com/file/d/1UaHEOmsSlNtm0oyddMqGIEuyR-DdoBOo/view): Its like the Michelin restaurants guide but for DCS modules, terrains and compains. With little text and some icons, [this guide](https://forums.eagle.ru/showthread.php?t=232516) help you choose your next module.
 
 
 ## Tools
@@ -68,3 +68,13 @@ While on multiplayer users can communicate with each other trough text, audio ch
 * [UniversRadio](https://tacnoworld.fr/universradio/): This software interacts with both TeamSpeak and aircarft radois in DCS, allowing users to communicate through simulated radio channels and frequencies. UniversRadio’s algorithms simulate distance and altitude effects between emitter and receiver, relief masking, frequency used, range, modulation (AM/FM), encrypting and power of radio transmitter to accurately render radio communications.
 
 * [Discord](https://discord.com/): This platform specializes in text, image, video and audio communication between users in a chat channel. Contrary to SRS and Teamspeak, the server is hosted in the company's data-centers, you can access it either by installing the app, or in a navigator window.
+
+#### Cockpit extraction
+For the big majority of us, one screen or a VR headset is all we need for total immerssion. But for a happy few, having the RWR, UFC and MFDs on a secondary(quaternary ?) screen or touch screens is the way to go.
+
+* [Helios](https://www.digitalcombatsimulator.com/fr/files/3302014/) is a virtual cockpit simulator for DCS.  It let you create virtual cockpits, which allow you to increase your immersion. Profiles can be created or downloaded to allow you to simulate MFDS, switches, knobs, gauges and more complex instruments which can then be mapped into DCS to give a much improved experience. Many people use a touch screen monitor with their virtual cockpits but it is also possible to run the cockpit on a remote PC/Laptop. [Have a look](https://www.youtube.com/watch?v=4kQG0dJMROg)
+
+* [Capt Zeen profiles](http://www.captzeen.com/helios/profiles.asp) Going to use Helios ? perfect, Capt Zeen offers an impressive library of Helios profiles for the major DCS modules.
+
+* [Harrier AV-8B profile](https://github.com/BlueFinBima/DCS-AV-8B-NA-Profile) for Helios.
+
