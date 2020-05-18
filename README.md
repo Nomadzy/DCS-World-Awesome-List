@@ -6,21 +6,23 @@ Awesome list of DCS World resources for new combat simers (work in  progress)
 
 * [Digital Combat Simulator](#digital-combat-simulator)
 * [Official Resources](#official-resources)
+* [Events](#events)
 * [Learn](#learn)
 * [Tools](#tools)
+  - [General](#general)
+  - [Communication](#communication)
+  - [Cockpit extraction](#cockpit-extraction)
 <!--* [Partners](#partners)-->
 <!--* [Hardware](#hardware)-->
 <!--* [Community](#community)-->
 <!--* [Skinning & Modding](#skinning)-->
 <!--* [Books](#books)-->
-<!--* [Events](#events)-->
 
 ## Digital Combat Simulator
 
 DCS World is an add-on based, freemium combat flight simulator made by Eagle Dynamics and The Fighter Collection. The base map of Caucasus, the Su-25T and TF-51 planes are free forever. Additional maps, aircrafts and helicopters can be purchased separately.
 
-**Current version : 2.5.5**
-
+**Current Stable version : 2.5.5**<br/>
 **Open Beta version : 2.5.6**
 
 ## Official Resources
@@ -30,6 +32,20 @@ DCS World is an add-on based, freemium combat flight simulator made by Eagle Dyn
 * [Official forum](https://forums.eagle.ru/) Eagle Dynamics and the community forum, the most complete, DCS related, source of informations and news
 * [General FAQ](https://www.digitalcombatsimulator.com/en/support/faq/) Technical questions
 * [User files](https://www.digitalcombatsimulator.com/en/files/) User contributed files: Skins, mods, missions and more.
+
+## Events
+DCS World is the perfect environment for competitive events, from air combat to air race, the community always find unimaginable new ways to gather and compete, some have gone as far as organizing a 4wd rally using Combined Arms module. Below are some major events, but you can [find a lot more in the forum](https://forums.eagle.ru/forumdisplay.php?f=469).
+
+* [DCSWorldEvents](https://www.twitch.tv/dcsworldevents) is the organizer of combat tournaments for DCS community :
+
+  - SATAL (Squadron Air To Air League) : This event's goal is to create a structured league that concludes in a single elimination tournament.
+  - SATAL COLD WAR Edition : same as SATAL, but adds in more weapon restrictions that limit aircraft to Cold War style munitions.
+  - AIR COMBAT : an event dedicated to the merge and BFM fighting.
+  - Merge for The Cure :  is an event dedicated to the merge and BFM with a special dedication to taking it to COVID19. Participants must donate to entities like Doctors Without Borders in order to participate.
+
+* [Virtual Airshows](https://www.virtual-airshows.com/): Organize Wings Over Tbilisi virtual Air Show, an event that allows virtual aerobatic teams from all over the world to present their hard work for the enjoyment of a live audience. A virtual aerobatic team is either a representational (e.g. Virtual Red Arrows, Virtual Blue Angels) or fictional team that is comprised of a group of virtual pilots that create life-like aerobatic displays.
+
+* [VARS](http://www.virtualairrace.com/): The Virtual Air Racing Series is a community driven online racing league for DCS World. This event is now part of The Wings Over Tbilisi airshow. Just install the [pylons](https://www.digitalcombatsimulator.com/fr/files/3196986/) and start training with the free TF-51.
 
 ## Learn
 * DCS Manual: The latest version can be found in the install directory under \Docs folder, or [Online](https://www.digitalcombatsimulator.com/en/downloads/documentation/dcs_user_manual/).
@@ -44,7 +60,7 @@ DCS World is an add-on based, freemium combat flight simulator made by Eagle Dyn
 
 
 ## Tools
-<!--#### Head Tracking, Multidisplay, skinning..-->
+<!--#### Head Tracking, skinning..-->
 #### General
 * DCS Updater: As its name implies, this tool is responsible of keeping your installation fresh, but not only, it can also repair a corrupt installation and change the current installed version. This tool is included with DCS install and is launched every time you start DCS. If it get corrupted by it self, ou can get it [here](http://updates.digitalcombatsimulator.com/files/DCS_updater_64bit.zip). [Documentation](https://forums.eagle.ru/showthread.php?t=114030).
 
