@@ -70,11 +70,18 @@ While on multiplayer users can communicate with each other trough text, audio ch
 * [Discord](https://discord.com/): This platform specializes in text, image, video and audio communication between users in a chat channel. Contrary to SRS and Teamspeak, the server is hosted in the company's data-centers, you can access it either by installing the app, or in a navigator window.
 
 #### Cockpit extraction
-For the big majority of us, one screen or a VR headset is all we need for total immerssion. But for a happy few, having the RWR, UFC and MFDs on a secondary(quaternary ?) screen or touch screens is the way to go.
+For most of us, one screen or a VR headset is all we need for total immersion. But for a happy few, having the RWR, UFC and MFDs on a secondary(quaternary ?) screen/touch screens is the way to go.
 
-* [Helios](https://www.digitalcombatsimulator.com/fr/files/3302014/) is a virtual cockpit simulator for DCS.  It let you create virtual cockpits, which allow you to increase your immersion. Profiles can be created or downloaded to allow you to simulate MFDS, switches, knobs, gauges and more complex instruments which can then be mapped into DCS to give a much improved experience. Many people use a touch screen monitor with their virtual cockpits but it is also possible to run the cockpit on a remote PC/Laptop. [Have a look](https://www.youtube.com/watch?v=4kQG0dJMROg)
+* [Helios](https://www.digitalcombatsimulator.com/fr/files/3302014/) is a virtual cockpit simulator for DCS.  It let you create virtual cockpits, which allow you to increase your immersion. Profiles can be created or downloaded to allow you to simulate MFDS, switches, knobs, gauges and more complex instruments which can then be mapped into DCS to give a much improved experience. Many people use a touch screen monitor with their virtual cockpits but it is also possible to run the cockpit on a remote PC/Laptop. [Have a look](https://www.youtube.com/watch?v=4kQG0dJMROg).
 
-* [Capt Zeen profiles](http://www.captzeen.com/helios/profiles.asp) Going to use Helios ? perfect, Capt Zeen offers an impressive library of Helios profiles for the major DCS modules.
+* [Capt Zeen profiles](http://www.captzeen.com/helios/profiles.asp) Going to use Helios ? perfect, Capt Zeen offers an impressive library of Helios profiles for the major modules with the corresponding DCS monitor config.
 
 * [Harrier AV-8B profile](https://github.com/BlueFinBima/DCS-AV-8B-NA-Profile) for Helios.
 
+* [Ikarus](https://github.com/s-d-a/Ikarus) is a solution for virtual cockpits for DCS like Helios. With it you can be display many gauges of aircrafts and helicopters using [DCS ExportScript](https://github.com/s-d-a/DCS-ExportScripts).
+
+* [DCS Interface](https://github.com/charlestytler/streamdeck-dcs-interface) for [StreamDeck](https://www.elgato.com/en/gaming/stream-deck) is a plugin that allows you to create buttons and interfaces that update with DCS events. There are currently three settings for each Streamdeck button you create.
+
+* [DCSFlightpanels](https://github.com/DCSFlightpanels/DCSFlightpanels) primary use is for using [Saitek/Logitech panels](https://www.logitechg.com/en-gb/products/flight.html) and [Stream Deck](https://www.elgato.com/en/gaming/stream-deck) in DCS. Together with DCS-BIOS you can manage every control for the aircraft and use the Radio Panel to operate cockpit radio equipment and also show data from the aircraft in the Multipanel & Backlit Panel. You can use multiple panels of each type and configure them separately. It also supports [SRS](http://dcssimpleradio.com/gettingstarted/).
+
+* [aInstruments](http://lumatek.sk/aInstruments/index.html) is a paid Android tablet or phone app that show aircraft instruments from DCS. It also shows kneepad pages and SAMs threat pages. It can automaticaly dial GPS coordinates from map on Hornet or Harrier UFC as waypoint or as JDAM, JSOW targets on Hornet. Server part runs on computer where DCS World is installed and [client part runs on your Android device](https://play.google.com/store/apps/details?id=sk.lumatek.aInstruments).
