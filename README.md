@@ -12,10 +12,10 @@ Awesome list of DCS World resources for new combat simers (work in  progress)
   - [General](#general)
   - [Communication](#communication)
   - [Cockpit extraction](#cockpit-extraction)
+  - [Skinning](#skinning)
 <!--* [Partners](#partners)-->
 <!--* [Hardware](#hardware)-->
 <!--* [Community](#community)-->
-<!--* [Skinning & Modding](#skinning)-->
 <!--* [Books](#books)-->
 
 ## Digital Combat Simulator
@@ -26,7 +26,7 @@ DCS World is an add-on based, freemium combat flight simulator made by Eagle Dyn
 **Open Beta version : 2.5.6**
 
 ## Official Resources
-* [DCS Website](https://www.digitalcombatsimulator.com/en/)
+* <a target="_blank" href="https://www.digitalcombatsimulator.com/en/">DCS Website</a>
 * [Download link](https://www.digitalcombatsimulator.com/en/downloads/world/) Stable, Open beta and dedicated server versions
 * [E-Shop](https://www.digitalcombatsimulator.com/en/shop/) Buy additional aircrafts, maps, campaigns ..
 * [Official forum](https://forums.eagle.ru/) Eagle Dynamics and the community forum, the most complete, DCS related, source of informations and news
