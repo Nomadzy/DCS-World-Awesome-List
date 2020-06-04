@@ -22,11 +22,10 @@ Awesome list of DCS World resources for new combat simers (work in  progress)
 
 DCS World is an add-on based, freemium combat flight simulator made by Eagle Dynamics and The Fighter Collection. The base map of Caucasus, the Su-25T and TF-51 planes are free forever. Additional maps, aircrafts and helicopters can be purchased separately.
 
-**Current Stable version : 2.5.5**<br/>
-**Open Beta version : 2.5.6**
+**Latest version : 2.5.6**
 
 ## Official Resources
-* <a target="_blank" href="https://www.digitalcombatsimulator.com/en/">DCS Website</a>
+* [DCS Website](https://www.digitalcombatsimulator.com/en/)
 * [Download link](https://www.digitalcombatsimulator.com/en/downloads/world/) Stable, Open beta and dedicated server versions
 * [E-Shop](https://www.digitalcombatsimulator.com/en/shop/) Buy additional aircrafts, maps, campaigns ..
 * [Official forum](https://forums.eagle.ru/) Eagle Dynamics and the community forum, the most complete, DCS related, source of informations and news
@@ -50,7 +49,7 @@ DCS World is the perfect environment for competitive events, from air combat to 
 ## Learn
 * DCS Manual: The latest version can be found in the install directory under \Docs folder, or [Online](https://www.digitalcombatsimulator.com/en/downloads/documentation/dcs_user_manual/).
 
-* Modules Manuals: Each module come usually with its own manual under \Mods\aircraft\MODULE_NAME\Doc
+* Modules Manuals: Each module come usually with its own manual under \Mods\aircraft\MODULE_NAME\Doc. Also, ED started publishing its [latests module manuals online](https://www.digitalcombatsimulator.com/en/downloads/documentation/).
 
 * [Chuck's Guides](https://www.mudspike.com/chucks-guides-dcs/): The famous, easy, alternative manuals made by Chuck Owl for almost every high fidelity DCS module, and [beyond](https://www.mudspike.com/chucks-guides/).
 
@@ -60,7 +59,7 @@ DCS World is the perfect environment for competitive events, from air combat to 
 
 
 ## Tools
-<!--#### Head Tracking, skinning..-->
+<!--#### Head Tracking, ..-->
 #### General
 * DCS Updater: As its name implies, this tool is responsible of keeping your installation fresh, but not only, it can also repair a corrupt installation and change the current installed version. This tool is included with DCS install and is launched every time you start DCS. If it get corrupted by it self, ou can get it [here](http://updates.digitalcombatsimulator.com/files/DCS_updater_64bit.zip). [Documentation](https://forums.eagle.ru/showthread.php?t=114030).
 
@@ -101,3 +100,14 @@ For most of us, one screen or a VR headset is all we need for total immersion. B
 * [DCSFlightpanels](https://github.com/DCSFlightpanels/DCSFlightpanels) primary use is for using [Saitek/Logitech panels](https://www.logitechg.com/en-gb/products/flight.html) and [Stream Deck](https://www.elgato.com/en/gaming/stream-deck) in DCS. Together with DCS-BIOS you can manage every control for the aircraft and use the Radio Panel to operate cockpit radio equipment and also show data from the aircraft in the Multipanel & Backlit Panel. You can use multiple panels of each type and configure them separately. It also supports [SRS](http://dcssimpleradio.com/gettingstarted/).
 
 * [aInstruments](http://lumatek.sk/aInstruments/index.html) is a paid Android tablet or phone app that show aircraft instruments from DCS. It also shows kneepad pages and SAMs threat pages. It can automaticaly dial GPS coordinates from map on Hornet or Harrier UFC as waypoint or as JDAM, JSOW targets on Hornet. Server part runs on computer where DCS World is installed and [client part runs on your Android device](https://play.google.com/store/apps/details?id=sk.lumatek.aInstruments).
+
+#### Skinning
+Skinning as its name implies is the act of making a new skin for a 3D model of an object like an aircraft or a ship, in the form of a bunch of *.dds image files, plus a text description file (description.lua).
+
+* Model Viewer 2: This tools is provided by ED and included with DCS in the bin directory. It let you open the 3D models of aircrafts (*.edm files), apply your skins and play the included animations (Ex: deploying landing gears) to test and see how your skin is behaving whithout openning DCS.
+
+* [The Gimp](https://www.gimp.org/) skins are made and edited with Photoshop, but if you dont have it and don't want to buy it, The Gimp is the best (only?) alternative you have. Its a free open source image manipulation software.
+
+* [DXTBmp](https://www.mwgfx.co.uk/programs/dxtbmp.htm) after making your skin using The Gimp in a bitmap format, this tool will let you convert the resulting files into DDS files, more suitable for the DCS 3D engine.
+
+* [NVidia DDS Plugin] Photoshop users can use this complet plugin to open and save DDS files
