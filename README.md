@@ -117,6 +117,7 @@ Skinning as its name implies is the act of making or editing a texture for a 3D 
 * [NormalMap Online](https://cpetry.github.io/NormalMap-Online/) is an online application that let generate normal maps for your textures.
 
 * Aircraft Texture Templates :
- - [ED & Partners Templates](https://www.digitalcombatsimulator.com/en/downloads/texture_templates/) in this repository you'll find the texture templates for most of DCS aircrafts.
 
- - Razbam Templates for the [Mirage 2000](https://razbamsimulations.com/index.php/paint-kits/dcs/2000c-paint-kit), [Harrier](https://razbamsimulations.com/index.php/paint-kits/dcs/av8-b-paint-kit) and the [MIG-19](https://razbamsimulations.com/index.php/paint-kits/dcs/mig-19-paint-kit).
+  - [ED & Partners Templates](https://www.digitalcombatsimulator.com/en/downloads/texture_templates/) in this repository you'll find the texture templates for most of DCS aircrafts.
+
+  - Razbam Templates for the [Mirage 2000](https://razbamsimulations.com/index.php/paint-kits/dcs/2000c-paint-kit), [Harrier](https://razbamsimulations.com/index.php/paint-kits/dcs/av8-b-paint-kit) and the [MIG-19](https://razbamsimulations.com/index.php/paint-kits/dcs/mig-19-paint-kit).
