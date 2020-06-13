@@ -104,19 +104,19 @@ For most of us, one screen or a VR headset is all we need for total immersion. B
 #### Skinning
 Skinning as its name implies is the act of making or editing a texture for a 3D model of an object like an aircraft or a ship. The output is a bunch of DDS image files, plus a text description file (description.lua).
 
-* Model Viewer 2: This tools is provided by ED and included with DCS in the bin directory. It let you open the 3D models of aircrafts (*.edm files), apply your skins and play the included animations (Ex: deploying landing gears) to test and see how your skin is behaving whithout openning DCS.
+* Model Viewer 2: This tools is provided by ED and included with DCS in the bin directory. It let you open the 3D models of aircrafts (*.edm files), apply your skins and play the included animations (Ex: deploying landing gears) to test and see how your skin is behaving without opening DCS.
 
-* [The Gimp](https://www.gimp.org/) skins are made and edited with Photoshop, but if you dont have it and don't want to buy it, The Gimp is the best (only?) alternative you have. Its a free open source image manipulation software that can open and edit Photoshop PSD files.
+* [The Gimp](https://www.gimp.org/) skins are made and edited with Photoshop, but if you don't have it and don't want to buy it, The Gimp is the best (only?) alternative you have. Its a free open source image manipulation software that can open and edit Photoshop PSD files.
 
 * [DXTBmp](https://www.mwgfx.co.uk/programs/dxtbmp.htm) after making your skin using The Gimp in a bitmap format, this tool will let you convert the resulting files into DDS files, more suitable for the DCS 3D engine.
 
-* [NVIDIA Texture Tools Exporter](https://developer.nvidia.com/nvidia-texture-tools-exporter) this complet toolbox let to open and save DDS files directly from Photoshop, or convert images to DDS via a standalone program if you use The Gimp. It also generate Normal Maps for your skins. Unfortunatly, it only works on NVIDIA GPU, but if you dont, you can still use Texture Tools [old Photoshop plugin](https://developer.nvidia.com/gameworksdownload#?dn=texture-tools-for-adobe-photoshop-8-55)
+* [NVIDIA Texture Tools Exporter](https://developer.nvidia.com/nvidia-texture-tools-exporter) this complete toolbox let to open and save DDS files directly from Photoshop, or convert images to DDS via a standalone program if you use The Gimp. It also generate Normal Maps for your skins. Unfortunately, it only works on NVIDIA GPU. If you have an AMD GPU, you can still use Texture Tools [old Photoshop plugin](https://developer.nvidia.com/gameworksdownload#?dn=texture-tools-for-adobe-photoshop-8-55).
 
 * [Intel Texture Works](https://software.intel.com/content/www/us/en/develop/articles/intel-texture-works-plugin.html) is another Photoshop plugin for exporting DDS files.
 
 * [NormalMap Online](https://cpetry.github.io/NormalMap-Online/) is an online application that let generate normal maps for your textures.
 
 * Aircraft Texture Templates :
-- [ED & Partners Templates](https://www.digitalcombatsimulator.com/en/downloads/texture_templates/) in this repository you'll find the texture templates for most of DCS aircrafts.
+ - [ED & Partners Templates](https://www.digitalcombatsimulator.com/en/downloads/texture_templates/) in this repository you'll find the texture templates for most of DCS aircrafts.
 
-- Razbam Templates for the [Mirage 2000](https://razbamsimulations.com/index.php/paint-kits/dcs/2000c-paint-kit), [Harrier](https://razbamsimulations.com/index.php/paint-kits/dcs/av8-b-paint-kit) and the [MIG-19](https://razbamsimulations.com/index.php/paint-kits/dcs/mig-19-paint-kit).
+ - Razbam Templates for the [Mirage 2000](https://razbamsimulations.com/index.php/paint-kits/dcs/2000c-paint-kit), [Harrier](https://razbamsimulations.com/index.php/paint-kits/dcs/av8-b-paint-kit) and the [MIG-19](https://razbamsimulations.com/index.php/paint-kits/dcs/mig-19-paint-kit).
