@@ -110,7 +110,9 @@ Skinning as its name implies is the act of making or editing a texture for a 3D 
 
 * [DXTBmp](https://www.mwgfx.co.uk/programs/dxtbmp.htm) after making your skin using The Gimp in a bitmap format, this tool will let you convert the resulting files into DDS files, more suitable for the DCS 3D engine.
 
-* [NVIDIA Texture Tools Exporter](https://developer.nvidia.com/nvidia-texture-tools-exporter) this complete toolbox let to open and save DDS files directly from Photoshop, or convert images to DDS via a standalone program if you use The Gimp. It also generate Normal Maps for your skins. Unfortunately, it only works on NVIDIA GPU. If you have an AMD GPU, you can still use Texture Tools [old Photoshop plugin](https://developer.nvidia.com/gameworksdownload#?dn=texture-tools-for-adobe-photoshop-8-55).
+* [NVIDIA Texture Tools Exporter](https://developer.nvidia.com/nvidia-texture-tools-exporter) this complete toolbox let you open and save DDS files directly from Photoshop, or convert images to DDS via a standalone program if you use The Gimp. It also generate Normal Maps for your skins. This version is optimised to run faster on NVIDIA GPUs. If you have old Photoshop version, you can still use Texture Tools [old Photoshop plugin](https://developer.nvidia.com/gameworksdownload#?dn=texture-tools-for-adobe-photoshop-8-55).
+
+* [AMD Compressonator](https://github.com/GPUOpen-Tools/Compressonator) is a standalone toolbox form AMD that let you convert images to DDS via a standalone program. This version is optimised to run faster on AMD GPUs. You can [download it here](https://github.com/GPUOpen-Tools/Compressonator/releases), look for CompressonatorGUI_x64______.exe.
 
 * [Intel Texture Works](https://software.intel.com/content/www/us/en/develop/articles/intel-texture-works-plugin.html) is another Photoshop plugin for exporting DDS files.
 
