@@ -57,6 +57,8 @@ DCS World is the perfect environment for competitive events, from air combat to 
 
 * [DCShelin Guide](https://drive.google.com/file/d/1UaHEOmsSlNtm0oyddMqGIEuyR-DdoBOo/view): Its like the Michelin restaurants guide but for DCS modules, terrains and compains. With little text and some icons, [this guide](https://forums.eagle.ru/showthread.php?t=232516) help you choose your next module.
 
+* [TAW Radar Simulator](https://tawdcs.org/radar-f15/): When starting in combat simulators, its difficult to find the logic of the targets apearing and desapearing from the radar screen. With this tools, you can understand why this is hapening and how to configure your radar depending on the situation.
+
 
 ## Tools
 <!--#### Head Tracking, ..-->
@@ -108,18 +110,18 @@ Skinning as its name implies is the act of making or editing a texture for a 3D 
 
 * [The Gimp](https://www.gimp.org/) skins are made and edited with Photoshop, but if you don't have it and don't want to buy it, The Gimp is the best (only?) alternative you have. Its a free open source image manipulation software that can open and edit Photoshop PSD files.
 
-* [DXTBmp](https://www.mwgfx.co.uk/programs/dxtbmp.htm) after making your skin using The Gimp in a bitmap format, this tool will let you convert the resulting files into DDS files, more suitable for the DCS 3D engine.
-
 * [NVIDIA Texture Tools Exporter](https://developer.nvidia.com/nvidia-texture-tools-exporter) this complete toolbox let you open and save DDS files directly from Photoshop, or convert images to DDS via a standalone program if you use The Gimp. It also generate Normal Maps for your skins. This version is optimised to run faster on NVIDIA GPUs. If you have old Photoshop version, you can still use Texture Tools [old Photoshop plugin](https://developer.nvidia.com/gameworksdownload#?dn=texture-tools-for-adobe-photoshop-8-55).
 
 * [AMD Compressonator](https://github.com/GPUOpen-Tools/Compressonator) is a standalone toolbox form AMD that let you convert images to DDS via a standalone program. This version is optimised to run faster on AMD GPUs. You can [download it here](https://github.com/GPUOpen-Tools/Compressonator/releases), look for CompressonatorGUI_x64______.exe.
 
 * [Intel Texture Works](https://software.intel.com/content/www/us/en/develop/articles/intel-texture-works-plugin.html) is another Photoshop plugin for exporting DDS files.
 
-* [NormalMap Online](https://cpetry.github.io/NormalMap-Online/) is an online application that let generate normal maps for your textures.
+* [DXTBmp](https://www.mwgfx.co.uk/programs/dxtbmp.htm) after making your skin using The Gimp in a bitmap format, this tool will let you convert the resulting files into DDS files, more suitable for the DCS 3D engine.
 
 * Aircraft Texture Templates :
 
-  - [ED & Partners Templates](https://www.digitalcombatsimulator.com/en/downloads/texture_templates/) in this repository you'll find the texture templates for most of DCS aircrafts.
+  - [ED & Partners Templates](https://www.digitalcombatsimulator.com/en/downloads/texture_templates/): in this repository you'll find the texture templates for most of DCS aircrafts.
 
   - Razbam Templates for the [Mirage 2000](https://razbamsimulations.com/index.php/paint-kits/dcs/2000c-paint-kit), [Harrier](https://razbamsimulations.com/index.php/paint-kits/dcs/av8-b-paint-kit) and the [MIG-19](https://razbamsimulations.com/index.php/paint-kits/dcs/mig-19-paint-kit).
+
+  - Heatblur Templates for the [AJS-37 Viggen](https://drive.google.com/drive/folders/1oslhHUx8pgyKJSP01lXzVe4IKud-jKEU) and the [F-14 Tomcat](https://drive.google.com/drive/folders/1qr8JOWrtJi--zXmNgDs1cla8zDKB3TJL).
