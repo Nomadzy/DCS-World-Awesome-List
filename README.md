@@ -10,6 +10,7 @@ Awesome list of DCS World resources for new combat simers (work in  progress)
 * [Learn](#learn)
 * [Tools](#tools)
   - [General](#general)
+  - [Missions and campaigns](#missions-and-campaigns)
   - [Communication](#communication)
   - [Cockpit extraction](#cockpit-extraction)
   - [Skinning](#skinning)
@@ -71,9 +72,16 @@ DCS World is the perfect environment for competitive events, from air combat to 
 
 * [Tacview](https://www.tacview.net/):  This tool let you understand what really happened during your last flight. It is a universal flight data analysis tool which enables you to easily record, analyze and understand any flight to improve your skills much faster than with conventional debriefings. It is widely used by simers and airforces.
 
-* [Combat Flite](https://www.combatflite.com/): This tool offers the possibility to make advanced missions with elaborate tooling. It let you export mission files, merge them, export briefing data packs, and generate kneeboards.
-
 * [LotATC](https://www.lotatc.com/): This is a non free client + server software for DCS, that provide users to get an ATC/GCI view of the battle. Basically, its an AWACS software. It let you play the role of a tactical or air traffic controller and provide help to human pilots so that they better accomplish their missions, by radioing them a picture or guidance instructions. It is compatible with SRS and UniversRadio (see below).
+
+#### Missions and campaigns
+If you played all the missions and campaigns included with your modules, finished the [paid ones](https://www.digitalcombatsimulator.com/fr/shop/campaigns/) and flew all the [free ones](https://www.digitalcombatsimulator.com/en/files/filter/type-is-campaign/apply/), it must be time to start to make your own.
+
+* [BriefingRoom](https://akaagar.itch.io/briefing-room-for-dcs) is an advanced yet easy to use fast mission generator that let you create missions by just selecting the terrain and some options, you can then save a mission file that you can play in single or multiplayer.
+
+* [DCS Liberation](https://github.com/Khopa/dcs_liberation) is a dynamic campaign maker, witch means that what you do in a mission will impact the next one.
+
+* [Combat Flite](https://www.combatflite.com/): This advanced tool complements the DCS mission editor, it offers the possibility to make missions with elaborate tooling. It let you export mission files, merge them, export briefing data packs, and generate kneeboards.
 
 #### Communication
 While on multiplayer users can communicate with each other trough text, audio chat is key in the heat of the action. And although DCS comes nowadays with voice chat, most people tend to use stand-alone VoIP software.
