@@ -133,3 +133,7 @@ Skinning as its name implies is the act of making or editing a texture for a 3D 
   - Razbam Templates for the [Mirage 2000](https://razbamsimulations.com/index.php/paint-kits/dcs/2000c-paint-kit), [Harrier](https://razbamsimulations.com/index.php/paint-kits/dcs/av8-b-paint-kit) and the [MIG-19](https://razbamsimulations.com/index.php/paint-kits/dcs/mig-19-paint-kit).
 
   - Heatblur Templates for the [AJS-37 Viggen](https://drive.google.com/drive/folders/1oslhHUx8pgyKJSP01lXzVe4IKud-jKEU) and the [F-14 Tomcat](https://drive.google.com/drive/folders/1qr8JOWrtJi--zXmNgDs1cla8zDKB3TJL).
+
+  - Heclak Templates for the [Community A-4E-C](https://drive.google.com/drive/folders/19w_bD8xHJiZpAi1JbA2xyPDJpl9dje-4).
+
+
