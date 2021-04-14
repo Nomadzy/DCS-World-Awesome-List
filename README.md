@@ -23,7 +23,7 @@ Awesome list of DCS World resources for new combat simmers (work in progress)
 
 DCS World is an add-on based, freemium combat flight simulator made by Eagle Dynamics and The Fighter Collection. The base map of Caucasus, the Su-25T and TF-51 planes are free forever. Additional maps, aircrafts and helicopters can be purchased separately.
 
-**Latest version: 2.5.6**
+**Latest OB version: 2.7.0**
 
 ## Official Resources
 * [DCS Website](https://www.digitalcombatsimulator.com/en/)
