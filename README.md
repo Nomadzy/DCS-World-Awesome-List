@@ -130,7 +130,7 @@ Skinning as its name implies is the act of making or editing a texture for a 3D 
 
   - [ED & Partners templates](https://www.digitalcombatsimulator.com/en/downloads/texture_templates/): in this repository you'll find the texture templates for most of DCS aircrafts.
 
-  -[Razbam templates](https://www.razbamsimulationsllc.com/paint-kits) for the Mirage 2000, Harrier and the MIG-19.
+  - [Razbam templates](https://www.razbamsimulationsllc.com/paint-kits) for the Mirage 2000, Harrier and the MIG-19.
 
   - Heatblur templates for the [AJS-37 Viggen](https://drive.google.com/drive/folders/1oslhHUx8pgyKJSP01lXzVe4IKud-jKEU) and the [F-14 Tomcat](https://drive.google.com/drive/folders/1qr8JOWrtJi--zXmNgDs1cla8zDKB3TJL).
 
