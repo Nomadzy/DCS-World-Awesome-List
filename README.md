@@ -23,7 +23,7 @@ Awesome list of DCS World resources for new combat simmers (work in progress)
 
 DCS World is an add-on based, freemium combat flight simulator made by Eagle Dynamics and The Fighter Collection. The base map of Caucasus, the Su-25T and TF-51 planes are free forever. Additional maps, aircrafts and helicopters can be purchased separately.
 
-**Latest OB version: 2.7.0**
+**Latest OB version: 2.7.10**
 
 ## Official Resources
 * [DCS Website](https://www.digitalcombatsimulator.com/en/)
@@ -130,7 +130,7 @@ Skinning as its name implies is the act of making or editing a texture for a 3D 
 
   - [ED & Partners templates](https://www.digitalcombatsimulator.com/en/downloads/texture_templates/): in this repository you'll find the texture templates for most of DCS aircrafts.
 
-  - Razbam templates for the [Mirage 2000](https://razbamsimulations.com/index.php/paint-kits/dcs/2000c-paint-kit), [Harrier](https://razbamsimulations.com/index.php/paint-kits/dcs/av8-b-paint-kit) and the [MIG-19](https://razbamsimulations.com/index.php/paint-kits/dcs/mig-19-paint-kit).
+  -[Razbam templates](https://www.razbamsimulationsllc.com/paint-kits) for the Mirage 2000, Harrier and the MIG-19.
 
   - Heatblur templates for the [AJS-37 Viggen](https://drive.google.com/drive/folders/1oslhHUx8pgyKJSP01lXzVe4IKud-jKEU) and the [F-14 Tomcat](https://drive.google.com/drive/folders/1qr8JOWrtJi--zXmNgDs1cla8zDKB3TJL).
 
