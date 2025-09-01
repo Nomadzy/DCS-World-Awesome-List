@@ -1,4 +1,4 @@
-# DCS World Awesome List - WIP
+# DCS World Awesome List - OUTDATED
 
 Awesome list of DCS World resources for new combat simmers (work in progress)
 
